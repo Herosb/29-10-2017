@@ -37,7 +37,7 @@ public class zad2 {
 			{
 			System.out.println("Najwieksza liczba to " +c +" a najmniejsza " +b);
 			}
-
 	}
+	
 }
 
