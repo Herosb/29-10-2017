@@ -18,4 +18,4 @@ public class zad3 {
 	            }
 	        }
 	    }
-	}
+}
